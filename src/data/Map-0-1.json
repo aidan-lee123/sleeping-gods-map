@@ -1,0 +1,36 @@
+{
+    "name": "Map-0-1",
+    "ports" : [
+        "Aurora Township"
+    ],
+    "points": [
+        {
+            "id" : 160,
+            "name" : "Aurora Township",
+            "market" : true,
+            "port": true,
+            "x" : 1147,
+            "y" : 695
+        },
+        {
+            "id" : 157,
+            "x" : 1078,
+            "y" : 775
+        },
+        {
+            "id" : 181,
+            "x" : 771,
+            "y" : 918
+        },
+        {
+            "id" : 151,
+            "x" : 696,
+            "y" : 655
+        },
+        {
+            "id" : 192,
+            "x" : 188,
+            "y" : 181
+        }
+    ]
+}

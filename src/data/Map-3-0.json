@@ -1,0 +1,23 @@
+{
+    "name": "Map0-1",
+    "ports" : [
+        "Porthaven",
+        "Glance"
+    ],
+    "points": [
+        {
+            "id" : 180,
+            "name" : "Porthaven",
+            "market" : true,
+            "x" : -100,
+            "y" : 0
+        },
+        {
+            "id" : 60,
+            "name" : "Glance",
+            "market" : false,
+            "x" : 100,
+            "y" : 0
+        }
+    ]
+}
